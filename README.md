@@ -14,7 +14,7 @@ It evaluates passwords based on **length, character variety, entropy**, and chec
 ---
 
 ## 📂 Project Files
-- `password_checker.py` → Main program
+- `script.py` → Main program
 
 ---
 
@@ -23,4 +23,5 @@ It evaluates passwords based on **length, character variety, entropy**, and chec
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/vkarthikeyan12/PasswordChecker.git
+
 cd PasswordChecker
